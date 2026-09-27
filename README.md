@@ -45,6 +45,11 @@ pom.xml
 testng.xml
 ```
 
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Lokesh-github07/TestAutomationFramework?style=flat-square)
+
+
+
 ## ▶️ Run
 
 ```bash
