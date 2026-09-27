@@ -51,6 +51,7 @@ testng.xml
 git clone https://github.com/YOUR_USERNAME/SeleniumTestAutomationFramework.git
 cd SeleniumTestAutomationFramework
 mvn clean test
+```
 
 ## 👨‍💻 Author
 
