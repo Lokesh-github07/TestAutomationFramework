@@ -1,4 +1,5 @@
-# Selenium Test Automation Framework
+# Selenium Test Automation Framework  
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Lokesh-github07/TestAutomationFramework?style=flat-square)
 
 A Java-based Selenium automation framework for testing web applications using a reusable and maintainable structure.
 
@@ -44,11 +45,6 @@ src/test/java/com/automation/
 pom.xml
 testng.xml
 ```
-
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Lokesh-github07/TestAutomationFramework?style=flat-square)
-
-
 
 ## ▶️ Run
 
