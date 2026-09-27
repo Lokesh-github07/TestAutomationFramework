@@ -51,11 +51,6 @@ testng.xml
 git clone https://github.com/YOUR_USERNAME/SeleniumTestAutomationFramework.git
 cd SeleniumTestAutomationFramework
 mvn clean test
-```
-
-## 📈 GitHub Activity
-
-![TestAutomationFramework](https://fabianocouto-activity-graph.vercel.app/graph?username=Lokesh-github07&theme=github-compact&hide_border=true)
 
 ## 👨‍💻 Author
 
