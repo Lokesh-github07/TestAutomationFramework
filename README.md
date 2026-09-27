@@ -1,4 +1,10 @@
 # Selenium Test Automation Framework  
+
+[![Java](https://img.shields.io/badge/Java-17%2B-orange?logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Selenium](https://img.shields.io/badge/Selenium-WebDriver-43B02A?logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![TestNG](https://img.shields.io/badge/TestNG-Framework-FF6C37)](https://testng.org/)
+[![Maven](https://img.shields.io/badge/Maven-Build-C71A36?logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![POM](https://img.shields.io/badge/Design%20Pattern-Page%20Object%20Model-blue)](https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Lokesh-github07/TestAutomationFramework?style=flat-square)
 
 A Java-based Selenium automation framework for testing web applications using a reusable and maintainable structure.
